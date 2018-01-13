@@ -1,0 +1,26 @@
+{
+  "name": "saliha-api-v1",
+  "version": "1.0.0",
+  "description": "saliha api for client",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldhonie/saliha-api-v1.git"
+  },
+  "keywords": [
+    "node_module",
+    "saliha.id",
+    "codigo",
+    "aldhonie",
+    "netmediatama"
+  ],
+  "author": "aldhonie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldhonie/saliha-api-v1/issues"
+  },
+  "homepage": "https://github.com/aldhonie/saliha-api-v1#readme"
+}
